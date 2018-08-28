@@ -1,0 +1,10 @@
+5
+A|y|rutgers
+B|y|penn state
+C|y|rutgers
+D|y|monmouth
+F|n
+A|B
+B|C
+C|D
+D|F
